@@ -1,0 +1,144 @@
+.page5{
+   
+             height: 100vh;
+             width: 100vw;
+}
+.last-div{
+           
+           border-radius: 3em;
+           background-color: black;
+           height:7em ;
+           width:80vw;
+           margin-left: 7em;
+           margin-top: 5em;
+           display: flex;
+             gap: 10em;
+}
+.text{
+        
+        height:7em;
+        width:70em;
+        margin-left: 4em;
+}
+.text1{
+        font-size: 2em;
+        text-align: center;
+        margin-top: 15px;
+        color: white;
+}
+.box{
+       
+       height:7em;
+       width:50em;
+       margin-right: 5em;
+       
+       
+}
+.box1{
+        
+         border-radius: 1em;
+         height: 2em;
+         width: 20em;
+         margin-top: 16px;
+         background-color: white;
+}
+.box2{
+       
+        border-radius: 1em;
+        height: 2em;
+        width: 20em;
+        margin-top: 10px;
+        background-color: white;
+}
+.p1{
+        text-align: center;
+        margin-top: 10px;
+        padding-top: 6px;
+        color: gray;
+        font-size:1.2em;
+}
+.p2{
+        text-align: center;
+        margin-top: 3px;
+        font-size: 20px;
+        padding-top:5px ;
+}
+.about-us{
+          
+          height:20em;
+          width:80em;
+          display: flex;
+          gap: 0px;
+          margin-top: 5em;
+          background-color: #F0F0F0;
+}
+.about1{
+        
+          height:20em;
+          width:30em;
+          margin-left: 4em;
+}
+.about2{
+        
+        height:15em;
+        width:30em;
+        margin-left: 4em;
+}
+.about3{
+       
+        height:15em;
+        width:30em;
+        margin-left: 4em;
+}
+.about4{
+        
+        height:15em;
+        width:30em;
+        margin-left: 4em;
+}
+.about5{
+        
+        height:15em;
+        width:30em;
+        margin-left: 4em;
+}
+.paragraph1{
+              font-size:1.5em ;
+              margin-top: 20px;
+}
+.paragraph2{
+              font-size: 20px;
+              margin-top:20px ;
+}
+
+
+.social{
+          height: 2.5em;
+          width: 10em;
+}
+
+
+.images{
+          
+           height:5em;
+           width:94vw;
+           display: flex;
+           background-color: #F0F0F0;
+          
+}
+.description{
+              
+               height:2em;
+               width:30em;
+               
+}
+.images2{
+        
+        height:2em;
+        width:20em;
+       margin-left: 30em;
+}
+.frame1{
+           font-size: 1em;
+           padding-left: 3em;
+}   

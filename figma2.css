@@ -1,0 +1,180 @@
+.page2{
+        
+        margin-top: 7em;
+        height: 170 vh;
+        width: 100vw;
+         padding-left: 3em;     
+}
+.heading1{
+              
+           margin-top: 1em;
+          height: 10em;
+          width: 100vw;
+          
+}
+.shruti{
+    font-size: 3em;
+    text-align: center;
+    margin-top: 1em;
+    margin-bottom: 0px;
+}
+
+.items{
+         
+         height:10em ;
+         width:100vw ;
+         display: flex;
+         gap: 5em;
+         margin-top: px;
+         margin-left: 7em;
+}
+.item1{
+
+    border: 1px solid black;
+        height: 10em;
+        width: 12em;
+}
+.item2{
+    border: 1px solid black;
+    height: 10em;
+    width: 12em;
+}
+.item3{
+         border: 1px solid black;
+    height: 10em;
+    width: 12em;
+}
+.item4{
+    border: 1px solid black;
+    height: 10em;
+    width: 12em;
+}
+.jeans{
+         height: 10em;
+         width: 12em;
+}
+.item-price{
+             
+              height:6em ;
+              width:100vw ;
+              display: flex;
+              gap: 7em;
+              margin-left: 8em;
+}
+.price1{
+          
+          height: 5em;
+          width:10em ;
+}
+.price2{
+    
+    height: 5em;
+    width:10em ;
+}
+.price3{
+    
+    height: 5em;
+    width:10em ;
+}
+.price4{
+   
+    height: 5em;
+    width:10em ;
+}
+.h6{
+      font-size: 2em;
+      text-align: center;
+}
+.button{
+          border: 1px solid black;
+           border-radius: 10em;
+           height: 2em;
+           width: 7em;
+           text-align: center;
+           margin-left: 37em;
+           margin-top: 1em;
+}
+.view-all{
+    font-size: 1em;
+    margin-top: 7px;
+    
+}
+
+
+
+
+.heading2{
+           
+           height: 5em;
+           width: 100vw;
+           margin-top: 4em;
+           margin-left: 0px;
+}
+.h2{
+    text-align: center;
+    font-size: 3em;
+    margin-left:4px;
+}
+.second-items{
+    
+    height:10em ;
+    width:100vw ;
+    display: flex;
+    gap: 5em;
+    margin-top: 4em;
+    margin-left: 7em;
+}
+
+.second-item1{
+    border: 1px solid black;
+   height: 10em;
+   width: 12em;
+}
+.second-item2{
+    border: 1px solid black;
+height: 10em;
+width: 12em;
+}
+.second-item3{
+    border: 1px solid black;
+height: 10em;
+width: 12em;
+}
+.second-item4{
+    border: 1px solid black;
+height: 10em;
+width: 12em;
+}
+.tops{
+    height: 10em;              /* img*/
+    width: 12em;
+}
+.second-itemprice{
+         
+         height:6em ;
+         width:100em ;
+         display: flex;
+         gap: 7em;
+         margin-left: 8em;
+}
+.second-price1{
+    
+     height: 5em;
+     width:10em ;
+}
+.second-price2{
+
+height: 5em;
+width:10em ;
+}
+.second-price3{
+
+height: 5em;
+width:10em ;
+}
+.second-price4{
+
+height: 5em;
+width:10em ;
+}
+
